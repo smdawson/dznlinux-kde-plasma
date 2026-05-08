@@ -84,9 +84,8 @@ tela-icon-theme
 surfn-arc-breeze-icons-git
 mcmojave-circle-icon-theme-git
 sardi-icons
-kde-rubberband-maximize-animation-git
 kvantum-qt5
-smdlinux-sddm-theme-plasma-git
+dznlinux-sddm-theme-plasma-git
 dznlinux-splash-dark-plasma-git
 libappindicator
 kwin-scripts-forceblur
