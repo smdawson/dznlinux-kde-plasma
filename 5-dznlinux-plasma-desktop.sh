@@ -76,12 +76,12 @@ function end_category {
 category SMD-Linux-Desktop
 
 list=(
-chromeos-kde-git
+plasma6-themes-chromeos-kde-git
 mojave-gtk-theme
-mcmojave-kde-theme-git
+plasma6-theme-mcmojave-git
 numix-circle-icon-theme-git
 tela-icon-theme
-surfn-arc-breeze-icons-git
+surfn-icons-git
 mcmojave-circle-icon-theme-git
 sardi-icons
 kvantum-qt5
